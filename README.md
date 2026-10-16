@@ -16,8 +16,9 @@
 > **This is a recovery (backup) repository.** It preserves the original project by **sergoncano** (original author), which is no longer available: <https://github.com/sergoncano/hollow-knight-grub-theme>. All credit goes to the original author and to the contributors:
 >
 > <table><tr>
+> <td align="center"><a href="https://github.com/sergoncano/hollow-knight-grub-theme">@sergoncano</a><br>Sergio González<br><sub>Original author</sub></td>
 > <td align="center"><a href="https://github.com/CH4O7IC"><img src="https://github.com/CH4O7IC.png?size=80" width="80" alt="CH4O7IC"></a><br><a href="https://github.com/CH4O7IC">@CH4O7IC</a><br><sub>Contributor</sub></td>
-> <td align="center"><a href="https://github.com/osalbahr"><img src="https://github.com/osalbahr.png?size=80" width="80" alt="osalbahr"></a><br><a href="https://github.com/osalbahr">@osalbahr</a><br><sub>Contributor</sub></td>
+> <td align="center"><a href="https://github.com/osalbahr"><img src="https://github.com/osalbahr.png?size=80" width="80" alt="osalbahr"></a><br><a href="https://github.com/osalbahr">@osalbahr</a><br>Osama Albahrani<br><sub>Contributor</sub></td>
 > </tr></table>
 
 <h4 align="center">A theme for the bootloader GRUB based off hollow knight's main menu.</h4>
@@ -70,8 +71,9 @@ The installation script is a variation of <a href="https://github.com/Lxtharia/m
 > **Ceci est un dépôt de récupération (sauvegarde).** Il conserve le projet d'origine de **sergoncano** (auteur original), qui n'est plus disponible : <https://github.com/sergoncano/hollow-knight-grub-theme>. Tout le crédit revient à l'auteur original et aux contributeurs :
 >
 > <table><tr>
+> <td align="center"><a href="https://github.com/sergoncano/hollow-knight-grub-theme">@sergoncano</a><br>Sergio González<br><sub>Auteur original</sub></td>
 > <td align="center"><a href="https://github.com/CH4O7IC"><img src="https://github.com/CH4O7IC.png?size=80" width="80" alt="CH4O7IC"></a><br><a href="https://github.com/CH4O7IC">@CH4O7IC</a><br><sub>Contributeur</sub></td>
-> <td align="center"><a href="https://github.com/osalbahr"><img src="https://github.com/osalbahr.png?size=80" width="80" alt="osalbahr"></a><br><a href="https://github.com/osalbahr">@osalbahr</a><br><sub>Contributeur</sub></td>
+> <td align="center"><a href="https://github.com/osalbahr"><img src="https://github.com/osalbahr.png?size=80" width="80" alt="osalbahr"></a><br><a href="https://github.com/osalbahr">@osalbahr</a><br>Osama Albahrani<br><sub>Contributeur</sub></td>
 > </tr></table>
 
 Un thème pour le chargeur de démarrage GRUB inspiré du menu principal de Hollow Knight.
